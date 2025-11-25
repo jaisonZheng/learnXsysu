@@ -1,0 +1,9 @@
+[submodule "clients"]
+	path = clients
+	url = https://github.com/jaisonZheng/learnXsysu-clients.git
+[submodule "server"]
+	path = server
+	url = https://github.com/jaisonZheng/learnXsysu-server.git
+[submodule "wechat_utils_wrapped"]
+	path = wechat_utils_wrapped
+	url = https://github.com/jaisonZheng/wechat_utils_wrapped.git
