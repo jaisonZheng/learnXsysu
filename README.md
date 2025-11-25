@@ -27,7 +27,8 @@
 
 （由于当前的测试数据是我转发给自己的微信小号然后让爬虫服务器爬的，所以来源和课程名称都暂时不正确，实际使用时“中山大学”处会显示群聊/课程名称，learnXsysu会变成发布通知/作业的人的名字）
 ## 实现原理
-<img width="700"  alt="IMG-20251125092522587" src="https://github.com/user-attachments/assets/c6a8142f-e8ff-4199-ac8e-b125de1bfa76" />
+<img width="700"  alt="IMG-20251125092522587" src="https://github.com/user-attachments/assets/c6a8142f-e8ff-4199-ac8e-b125de1bfa76" />  
+
 简单来说，就是利用windows上的盲人模式（可以这么理解），定时爬取微信/企业微信/钉钉/QQ的信息，先进行去重，然后经过大模型and脚本的数据清洗（结构化处理+判断是否有价值），发送到部署在腾讯云的云服务器，然后再分发到客户端。
 
 其中，用到/借鉴了以下的开源项目：
