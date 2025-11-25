@@ -17,12 +17,13 @@
 
 ## 页面展示
 ### ios端：
-<img width="1206" height="2622" alt="IMG-20251124104743999" src="https://github.com/user-attachments/assets/92a81c70-9d43-4a1d-9db8-cbc050e646ee" />
-<img width="1206" height="2622" alt="IMG-20251124104744057" src="https://github.com/user-attachments/assets/3440efce-bc50-4f85-9463-785a5300c842" />
+<img width="300"  alt="IMG-20251124104743999" src="https://github.com/user-attachments/assets/92a81c70-9d43-4a1d-9db8-cbc050e646ee" />
+<img width="300"  alt="IMG-20251124104744057" src="https://github.com/user-attachments/assets/3440efce-bc50-4f85-9463-785a5300c842" />
+<img width="300"  alt="IMG-20251124104744126" src="https://github.com/user-attachments/assets/ef6ff698-4e4c-438a-aca5-98a853befac4" />
 
 ### Android端:
-<img width="1080" height="2424" alt="IMG-20251124123020234" src="https://github.com/user-attachments/assets/0b2952e0-b7a3-4575-8b20-33976b3cff52" />
-<img width="1080" height="2424" alt="IMG-20251124123058208" src="https://github.com/user-attachments/assets/41793460-f8af-4cd5-a70e-4589ba3ffd03" />
+<img width="300"  alt="IMG-20251124123020234" src="https://github.com/user-attachments/assets/0b2952e0-b7a3-4575-8b20-33976b3cff52" />
+<img width="300"  alt="IMG-20251124123058208" src="https://github.com/user-attachments/assets/41793460-f8af-4cd5-a70e-4589ba3ffd03" />
 
 （由于当前的测试数据是我转发给自己的微信小号然后让爬虫服务器爬的，所以来源和课程名称都暂时不正确，实际使用时“中山大学”处会显示群聊/课程名称，learnXsysu会变成发布通知/作业的人的名字）
 ## 实现原理
